@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Dev 2team Git hub test complete
+	Dev 2team Git hub test complete!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
